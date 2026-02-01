@@ -1,4 +1,3 @@
-
 ## Scope (Contextual evaluation) - the donut, not the hole 
 The scope of this project begins with these parameters (listed below):
 a. Zip codes of interest in SF Bay Area (list here): 
