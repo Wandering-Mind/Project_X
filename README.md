@@ -61,3 +61,29 @@ This project investigates whether cultural suppression correlates with small bus
 
 ### Disclaimer for research study
 This research methodology centers around usage of the scientific method and the application of reversion to "first principles" thinking. 
+
+## Quantitative Analysis Prompts:
+-Quantitative analysis prompts:
+--Which category received the highest average rating, and which received the lowest?
+--How many participants rated the project satisfaction as 4 or higher?
+--What percentage of participants rated timeline adherence below 3?
+--Can you identify any correlations between communication effectiveness and overall experience?
+
+## Qualitative analysis prompts:
+--Summarize the most common themes in the comments section.
+--Are there any recurring concerns or suggestions mentioned in the comments?
+--Identify any comments that mention issues with communication or timeline.
+
+## Insight and recommendation prompts:
+--Based on the survey data, what are the top three strengths of Project Nexus?
+--What are the key areas for improvement suggested by the participants?
+--Provide a summary report of the survey findings with actionable recommendations.
+
+## Quantitative visualization prompts:
+--Generate a pie chart of overall ratings distribution.
+--Create a bar chart comparing the average ratings for Project Satisfaction, Communication, Effectiveness, Timeline Adherence, and Overall Experience.
+--Plot a histogram of the satisfaction ratings to see the distribution of ratings.
+--Generate a scatter plot to analyze the relationship between Communication Effectiveness and Overall Experience.
+--Create a correlation heatmap for all numeric rating categories.
+--Make a box plot for each rating category to show the range and quartiles.
+--Plot a line graph showing timeline adherence ratings over participants ordered by Participant ID.
